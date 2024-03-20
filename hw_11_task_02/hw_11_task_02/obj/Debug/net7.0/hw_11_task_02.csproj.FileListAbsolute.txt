@@ -1,0 +1,14 @@
+D:\csharp_practices\Homework#11\hw_11_task_02\hw_11_task_02\bin\Debug\net7.0\hw_11_task_02.exe
+D:\csharp_practices\Homework#11\hw_11_task_02\hw_11_task_02\bin\Debug\net7.0\hw_11_task_02.deps.json
+D:\csharp_practices\Homework#11\hw_11_task_02\hw_11_task_02\bin\Debug\net7.0\hw_11_task_02.runtimeconfig.json
+D:\csharp_practices\Homework#11\hw_11_task_02\hw_11_task_02\bin\Debug\net7.0\hw_11_task_02.dll
+D:\csharp_practices\Homework#11\hw_11_task_02\hw_11_task_02\bin\Debug\net7.0\hw_11_task_02.pdb
+D:\csharp_practices\Homework#11\hw_11_task_02\hw_11_task_02\obj\Debug\net7.0\hw_11_task_02.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp_practices\Homework#11\hw_11_task_02\hw_11_task_02\obj\Debug\net7.0\hw_11_task_02.AssemblyInfoInputs.cache
+D:\csharp_practices\Homework#11\hw_11_task_02\hw_11_task_02\obj\Debug\net7.0\hw_11_task_02.AssemblyInfo.cs
+D:\csharp_practices\Homework#11\hw_11_task_02\hw_11_task_02\obj\Debug\net7.0\hw_11_task_02.csproj.CoreCompileInputs.cache
+D:\csharp_practices\Homework#11\hw_11_task_02\hw_11_task_02\obj\Debug\net7.0\hw_11_task_02.dll
+D:\csharp_practices\Homework#11\hw_11_task_02\hw_11_task_02\obj\Debug\net7.0\refint\hw_11_task_02.dll
+D:\csharp_practices\Homework#11\hw_11_task_02\hw_11_task_02\obj\Debug\net7.0\hw_11_task_02.pdb
+D:\csharp_practices\Homework#11\hw_11_task_02\hw_11_task_02\obj\Debug\net7.0\hw_11_task_02.genruntimeconfig.cache
+D:\csharp_practices\Homework#11\hw_11_task_02\hw_11_task_02\obj\Debug\net7.0\ref\hw_11_task_02.dll
